@@ -1,7 +1,11 @@
 body{
+    margin: 4vw;
     background-color: rgb(35, 35, 35);
 }
 h1{
     color: white;
     font-weight: bolder;
+}
+p{
+    color: white;
 }
